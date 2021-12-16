@@ -1,5 +1,4 @@
 # 好看的或者有趣的错误页将收集在这里
-[点击这里取预览](https://hityb.github.io/nice-error-page-collection/)
 
 ### colorlib
 - [404](https://hityb.github.io/nice-error-page-collection/colorlib/404.html)
